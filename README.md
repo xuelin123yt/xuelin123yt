@@ -31,9 +31,7 @@
 <br/>
 <br/>
   
-<a href="https://github.com/AixLnyt/System-Information-Overview.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10" width="400"/>
-</a>
+
 
 - 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
   The Ultimate Advertisement List - Update Weekly
