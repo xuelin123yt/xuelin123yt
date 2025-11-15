@@ -3,7 +3,7 @@
 <div>  
 <img width="337" src="./img/senyum.png" align=right />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
+<img src="./img/AboutMe-elaina.png" width="480" />
 <br/>
 <br/>
 <br/>
@@ -22,16 +22,18 @@
 
 - Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
 
-<img src="./img/divigif.gif" width="488" />
+<img src="./img/divigif.gif" width="480" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
-<img src="./img/Repo-elaina.png" width="488" />
+<img src="./img/Repo-elaina.png" width="480" />
 <br/>
 <br/>
   
-> [![System-Information-Overview](https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/AixLnyt/System-Information-Overview.git)
+<a href="https://github.com/AixLnyt/System-Information-Overview.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10" width="400"/>
+</a>
 
 - 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
   The Ultimate Advertisement List - Update Weekly
