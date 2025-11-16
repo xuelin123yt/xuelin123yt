@@ -18,7 +18,7 @@
 - 血型：**B 型**
 
 - 身高：**148 cm**
-
+<img src="./img/waguri2-2.png" align="right" width="280"/>
 - 所屬：**桔梗女校｜高中生**
 
 - 髮色：桔梗紫  
@@ -34,7 +34,7 @@
 - 個人狀態：**與凜太郎熱戀中**
 
 <img src="./img/divigif.gif" width="480"/>
-<img src="./img/waguri3.png" width="210" align="right"/>
+<img src="./img/waguri3.png" width="200" align="right"/>
 
 <br>
   
@@ -79,7 +79,6 @@
 </table>
 
 <br>
-<br>
 
 <table align="center">
   <tr>
@@ -115,6 +114,25 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="./img/svg/vscode-original.svg" width="50" title="VSCode"/>
+  <img src="./img/svg/visualstudio-plain.svg" width="50" title="Visual Studio"/>
+  <img src="./img/svg/git-original.svg" width="50" title="Git"/>
+  <img src="./img/svg/windows8-original.svg" width="50" title="Windows"/>
+  <img src="./img/svg/powershell-original.svg" width="50" title="PowerShell"/>
+</p>
+
+<p align="center">
+  <img src="./img/svg/html5-original.svg" width="50" title="HTML"/>
+  <img src="./img/svg/css3-original.svg" width="50" title="CSS"/>
+  <img src="./img/svg/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="./img/svg/python-original.svg" width="50" title="Python"/>
+  <img src="./img/svg/java-original.svg" width="50" title="Java"/>
+  <img src="./img/svg/c-original.svg" width="50" title="C"/>
+</p>
 
 <br>
 <img src="./img/waguri6.png" width="100%" align="center"/>
