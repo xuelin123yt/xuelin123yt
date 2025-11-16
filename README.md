@@ -75,15 +75,17 @@
 
 <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"謝謝你一直鼓勵我，現在的我能打起精神，全靠有你在。" – 和栗薰子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"下次一起吃蛋糕吧！" – 和栗薰子</sub>
 
+<br>
+<br>
 
-<div style="display:flex; gap:15px; align-items:center; justify-content:center;">
+<p align="center">
   <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px" style="border-radius:50%;" />
   <img src="./img/icon/imgi_38_宇佐美翔平_icon.png" alt="宇佐美翔平" width="80px" style="border-radius:50%;" />
   <img src="./img/icon/imgi_39_夏泽朔_icon.png" alt="夏泽朔" width="80px" style="border-radius:50%;" />
   <img src="./img/icon/imgi_40_依田绚斗_icon.png" alt="依田绚斗" width="80px" style="border-radius:50%;" />
   <img src="./img/icon/imgi_41_和栗薰子_icon.png" alt="和栗薰子" width="80px" style="border-radius:50%;" />
   <img src="./img/icon/imgi_42_保科昴_icon.png" alt="保科昴" width="80px" style="border-radius:50%;" />
-</div>
+</p>
 
 <br>
 
