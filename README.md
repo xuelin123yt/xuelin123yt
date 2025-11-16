@@ -18,7 +18,9 @@
 - 血型：**B 型**
 
 - 身高：**148 cm**
+
 <img src="./img/waguri2-2.png" align="right" width="280"/>
+
 - 所屬：**桔梗女校｜高中生**
 
 - 髮色：桔梗紫  
