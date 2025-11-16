@@ -1,5 +1,5 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f093fb,100:ff6b9d&height=220&section=header&text=%E2%9C%A8Waguri Kaoruko%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Student%20%7C%20Providence%20University%20%7C%20Vibe%20Coding&descSize=16&descAlignY=58&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%" align="center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f093fb,100:ff6b9d&height=220&section=header&text=%E2%9C%A8Waguri Kaoruko%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Student%20%7C%20Providence%20University%20%7C%20Vibe%20Coding&descSize=16&descAlignY=58&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
 
 <!-- 右圖 -->
 <img src="./img/waguri2.png" align="right" width="280" style="border-radius:10px;"/>
@@ -34,7 +34,7 @@
 - 個人狀態：**與凜太郎熱戀中**
 
 <img src="./img/divigif.gif" width="480" style="border-radius:10px;"/>
-<img src="./img/standee.png" width="250" align="right"/>
+<img src="./img/standee.png" width="240" align="right"/>
 <br>
 <br>
 <img src="./img/waguri.png" width="480" height="80" style="border-radius:10px;"/>
@@ -45,24 +45,38 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10" width="370"/>
 </a>
 <br><br>
-<a href="https://github.com/AixLnyt/Loading-Effect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=Loading-Effect&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10"width="370"/>
+<a href="https://github.com/AixLnyt/Loading_Effect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=Loading-Effect&show_icons=true&bg_color=2d1b00&title_color=ff6b35&text_color=f7f7f7&icon_color=ffd60a&count_private=true&border_color=ff9e00&border_radius=10" width="370"/>
 </a>
 <br><br>
 <a href="https://github.com/AixLnyt/pixiv">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=Pixiv&show_icons=true&bg_color=2a0a2a&title_color=ff79c6&text_color=f8f8f2&icon_color=8be9fd&count_private=true&border_color=bd93f9&border_radius=10" width="370"/>
 </a>
+<br><br>
+<a href="https://github.com/AixLnyt/KLSH-Announcement-GUI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=KLSH-Announcement-GUI&show_icons=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=00d9ff&count_private=true&border_color=00b4d8&border_radius=10&description=查看國立基隆高級中學（KLSH）置頂和重要公告資訊" width="370"/>
+</a>
 
 <img src="./img/divigif.gif" width="850" style="border-radius:10px;"/>
+
 <br>
-<br>
-<img src="./img/waguri5.png" width="270" align="right" style="border-radius:10px;"/>
-<br>
-<img src="./img/waguri4.gif" width="500" height="250" style="border-radius:10px;" />
 <br>
 
-<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
-<br><br>
+<table>
+  <tr>
+    <td width="500">
+      <img src="./img/waguri4.gif" width="500" height="250" style="border-radius:10px;" />
+    </td>
+    <td width="270">
+      <img src="./img/waguri5.png" width="270" style="border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
+
+<sub>"謝謝你一直鼓勵我，現在的我能打起精神，全靠有你在。" – 和栗薰子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"下次一起吃蛋糕吧！" – 和栗薰子</sub>
+
+<br>
+<br>
 
 <div style="display:flex; gap:15px; align-items:center; justify-content:center;">
   <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px" style="border-radius:50%;" />
@@ -82,4 +96,4 @@
 <img src="./img/waguri6.png" width="100%" align="center"/>
 
 <!-- footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:667eea,50:f093fb,100:ff6b9d&text=%E2%9C%A8Stay%20Curious%E2%9C%A8&fontSize=40&fontColor=ffffff&fontAlignY=70&desc=Keep%20Exploring%20%7C%20Keep%20Practicing%20%7C%20Keep%20Growing&descSize=16&descAlignY=88&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%" align="center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:667eea,50:f093fb,100:ff6b9d&text=%E2%9C%A8Stay%20Curious%E2%9C%A8&fontSize=40&fontColor=ffffff&fontAlignY=70&desc=Keep%20Exploring%20%7C%20Keep%20Practicing%20%7C%20Keep%20Growing&descSize=16&descAlignY=88&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
