@@ -34,8 +34,8 @@
 - 個人狀態：**與凜太郎熱戀中**
 
 <img src="./img/divigif.gif" width="480"/>
-<img src="./img/waguri3.png" width="220" align="right"/>
-<br>
+<img src="./img/waguri3.png" width="210" align="right"/>
+
 <br>
   
 <a href="https://github.com/AixLnyt/System-Information-Overview.git">
@@ -54,9 +54,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=KLSH-Announcement-GUI&show_icons=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=00d9ff&count_private=true&border_color=00b4d8&border_radius=10&description=查看國立基隆高級中學（KLSH）置頂和重要公告資訊" width="370"/>
 </a>
 
-<img src="./img/divigif.gif" width="850"/>
+<img src="./img/divigif.gif" width="850" height="2"/>
 
-<br>
+
 <br>
 
 <table align="center">
@@ -68,21 +68,53 @@
       <img src="./img/waguri5.png" width="270"/>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <sub>"謝謝你一直鼓勵我，現在的我能打起精神，全靠有你在。" – 和栗薰子</sub>
+    </td>
+    <td align="center">
+      <sub>"下次一起吃蛋糕吧！" – 和栗薰子</sub>
+    </td>
+  </tr>
 </table>
 
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"謝謝你一直鼓勵我，現在的我能打起精神，全靠有你在。" – 和栗薰子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"下次一起吃蛋糕吧！" – 和栗薰子</sub>
-
 <br>
 <br>
 
-<p align="center">
-  <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px"/>
-  <img src="./img/icon/imgi_38_宇佐美翔平_icon.png" alt="宇佐美翔平" width="80px"/>
-  <img src="./img/icon/imgi_39_夏泽朔_icon.png" alt="夏泽朔" width="80px"/>
-  <img src="./img/icon/imgi_40_依田绚斗_icon.png" alt="依田绚斗" width="80px"/>
-  <img src="./img/icon/imgi_41_和栗薰子_icon.png" alt="和栗薰子" width="80px"/>
-  <img src="./img/icon/imgi_42_保科昴_icon.png" alt="保科昴" width="80px"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px"/>
+      <br>
+      <sub><b>䌷凛太郎</b></sub>
+    </td>
+    <td align="center">
+      <img src="./img/icon/imgi_38_宇佐美翔平_icon.png" alt="宇佐美翔平" width="80px"/>
+      <br>
+      <sub><b>宇佐美翔平</b></sub>
+    </td>
+    <td align="center">
+      <img src="./img/icon/imgi_39_夏泽朔_icon.png" alt="夏泽朔" width="80px"/>
+      <br>
+      <sub><b>夏泽朔</b></sub>
+    </td>
+    <td align="center">
+      <img src="./img/icon/imgi_40_依田绚斗_icon.png" alt="依田绚斗" width="80px"/>
+      <br>
+      <sub><b>依田绚斗</b></sub>
+    </td>
+    <td align="center">
+      <img src="./img/icon/imgi_41_和栗薰子_icon.png" alt="和栗薰子" width="80px"/>
+      <br>
+      <sub><b>和栗薰子</b></sub>
+    </td>
+    <td align="center">
+      <img src="./img/icon/imgi_42_保科昴_icon.png" alt="保科昴" width="80px"/>
+      <br>
+      <sub><b>保科昴</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 <img src="./img/waguri6.png" width="100%" align="center"/>
