@@ -34,7 +34,7 @@
 - 個人狀態：**與凜太郎熱戀中**
 
 <img src="./img/divigif.gif" width="480"/>
-<img src="./img/standee.png" width="250" align="right"/>
+<img src="./img/waguri3.png" width="250" align="right"/>
 <br>
 <br>
 <img src="./img/waguri.png" width="480" height="80"/>
