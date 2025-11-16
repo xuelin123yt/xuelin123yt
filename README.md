@@ -34,7 +34,7 @@
 - 個人狀態：**與凜太郎熱戀中**
 
 <img src="./img/divigif.gif" width="480" style="border-radius:10px;"/>
-<img src="./img/standee.png" width="240" align="right"/>
+<img src="./img/standee.png" width="250" align="right"/>
 <br>
 <br>
 <img src="./img/waguri.png" width="480" height="80" style="border-radius:10px;"/>
@@ -62,7 +62,7 @@
 <br>
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td width="500">
       <img src="./img/waguri4.gif" width="500" height="250" style="border-radius:10px;" />
@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-<sub>"謝謝你一直鼓勵我，現在的我能打起精神，全靠有你在。" – 和栗薰子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"下次一起吃蛋糕吧！" – 和栗薰子</sub>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"謝謝你一直鼓勵我，現在的我能打起精神，全靠有你在。" – 和栗薰子&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"下次一起吃蛋糕吧！" – 和栗薰子</sub>
 
 <br>
 <br>
