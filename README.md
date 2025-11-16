@@ -1,56 +1,85 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f093fb,100:ff6b9d&height=220&section=header&text=%E2%9C%A8AixLnyt%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Student%20%7C%20Providence%20University%20%7C%20Vibe%20Coding&descSize=16&descAlignY=58&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%" align="center"/>
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f093fb,100:ff6b9d&height=220&section=header&text=%E2%9C%A8Waguri Kaoruko%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Student%20%7C%20Providence%20University%20%7C%20Vibe%20Coding&descSize=16&descAlignY=58&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%" align="center"/>
 
-<div>  
-<img width="300" src="./img/senyum.png" align=right />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="480" />
-<br/>
-<br/>
-<br/>
+<!-- 右圖 -->
+<img src="./img/waguri2.png" align="right" width="280" style="border-radius:10px;"/>
+<br>
+<!-- 左圖 -->
+<img src="./img/waguri.png" width="480" height="80" style="border-radius:10px;"/>
+<br>
+<br>
 
-- Name: **Reidho Satria** / **レイドー・サトリア**
+- 本名：**和栗 薫子（わぐり かおるこ） / Waguri Kaoruko**
 
-- Residing in: **South Sumatra, Indonesia**
+- 年齡：**16 歲**
 
-- Field of Study: [**Computer Science**](https://if.uigm.ac.id/home/)
+- 出生：**7 月 22 日｜巨蟹座**
 
-- Proficient in: **GNU/Linux**, **FreeBSD**, and other **Unix-like** system.
+- 血型：**B 型**
 
-- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, **Rust**, and **Python**
+- 身高：**148 cm**
 
-- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
+- 所屬：**桔梗女校｜高中生**
 
-- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+- 髮色：桔梗紫  
 
-<img src="./img/divigif.gif" width="480" />
+- 瞳色：藍瞳  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
-<br/>
-<br/>
-<img src="./img/Repo-elaina.png" width="480" />
-<br/>
-<br/>
+- 特色萌點：長捲髮、髮帶、黑色連褲襪、高嶺之花氣質、治癒系、美少女  
+
+- 個性與喜好：溫柔、甜食控、安靜、有氣質的小天使  
+
+- 聲優：**井上穗乃花（TV 動畫）**、**和氣杏未（漫畫宣傳片）**
+
+- 個人狀態：**與凜太郎熱戀中**
+
+<img src="./img/divigif.gif" width="480" style="border-radius:10px;"/>
+<img src="./img/standee.png" width="250" align="right"/>
+<br>
+<br>
+<img src="./img/waguri.png" width="480" height="80" style="border-radius:10px;"/>
+<br>
+<br>
   
 <a href="https://github.com/AixLnyt/System-Information-Overview.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=System-Information-Overview&show_icons=true&bg_color=001529&title_color=88deb0&text_color=f7f6fb&icon_color=ffdd02&count_private=true&border_color=fAA61A&border_radius=10" width="370"/>
+</a>
+<br><br>
+<a href="https://github.com/AixLnyt/Loading-Effect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=Loading-Effect&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10"width="370"/>
+</a>
+<br><br>
+<a href="https://github.com/AixLnyt/pixiv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=Pixiv&show_icons=true&bg_color=2a0a2a&title_color=ff79c6&text_color=f8f8f2&icon_color=8be9fd&count_private=true&border_color=bd93f9&border_radius=10" width="370"/>
 </a>
 
-- 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
-  The Ultimate Advertisement List - Update Weekly
-- 📙 [***elliottophellia/revanced***](https://github.com/elliottophellia/revanced) <br/>
-  Always-up-to-date ReVanced apps, automatically built and maintained via continuous integration. Never miss a new version.
-- 📒 [***elliottophellia/packages***](https://github.com/elliottophellia/packages) <br/>
-  Personal Fedora RPM repository with automatically maintained packages. Always up-to-date, synced daily via continuous integration.
-<img src="./img/tunjuk.png" width="270" align="right" />
-<br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="./img/divigif.gif" width="850" style="border-radius:10px;"/>
+<br>
+<br>
+<img src="./img/waguri5.png" width="270" align="right" style="border-radius:10px;"/>
+<br>
+<img src="./img/waguri4.gif" width="500" height="250" style="border-radius:10px;" />
+<br>
+
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&theme=darkhub" align="center"/>
-<br/><br/>
-<p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-</p>
-<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center"/>
+<br><br>
+
+<div style="display:flex; gap:15px; align-items:center; justify-content:center;">
+  <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px" style="border-radius:50%;" />
+  <img src="./img/icon/imgi_38_宇佐美翔平_icon.png" alt="宇佐美翔平" width="80px" style="border-radius:50%;" />
+  <img src="./img/icon/imgi_39_夏泽朔_icon.png" alt="夏泽朔" width="80px" style="border-radius:50%;" />
+  <img src="./img/icon/imgi_40_依田绚斗_icon.png" alt="依田绚斗" width="80px" style="border-radius:50%;" />
+  <img src="./img/icon/imgi_41_和栗薰子_icon.png" alt="和栗薰子" width="80px" style="border-radius:50%;" />
+  <img src="./img/icon/imgi_42_保科昴_icon.png" alt="保科昴" width="80px" style="border-radius:50%;" />
 </div>
+
+<br>
+
+<!-- <p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+</p> -->
+<br>
+<img src="./img/waguri6.png" width="100%" align="center"/>
+
+<!-- footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:667eea,50:f093fb,100:ff6b9d&text=%E2%9C%A8Stay%20Curious%E2%9C%A8&fontSize=40&fontColor=ffffff&fontAlignY=70&desc=Keep%20Exploring%20%7C%20Keep%20Practicing%20%7C%20Keep%20Growing&descSize=16&descAlignY=88&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%" align="center"/>
