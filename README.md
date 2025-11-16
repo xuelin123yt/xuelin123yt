@@ -1,11 +1,11 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f093fb,100:ff6b9d&height=220&section=header&text=%E2%9C%A8Waguri Kaoruko%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Student%20%7C%20Providence%20University%20%7C%20Vibe%20Coding&descSize=16&descAlignY=58&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f093fb,100:ff6b9d&height=220&section=header&text=%E2%9C%A8Waguri%20Kaoruko%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Student%20%7C%20Providence%20University%20%7C%20Vibe%20Coding&descSize=16&descAlignY=58&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
 
-<!-- 右圖 -->
-<img src="./img/waguri2.png" align="right" width="280" style="border-radius:10px;"/>
+<!-- 右圖 - 移除 style -->
+<img src="./img/waguri2.png" align="right" width="280"/>
 <br>
-<!-- 左圖 -->
-<img src="./img/waguri.png" width="480" height="80" style="border-radius:10px;"/>
+<!-- 左圖 - 移除 style -->
+<img src="./img/waguri.png" width="480" height="80"/>
 <br>
 <br>
 
@@ -33,11 +33,11 @@
 
 - 個人狀態：**與凜太郎熱戀中**
 
-<img src="./img/divigif.gif" width="480" style="border-radius:10px;"/>
+<img src="./img/divigif.gif" width="480"/>
 <img src="./img/standee.png" width="250" align="right"/>
 <br>
 <br>
-<img src="./img/waguri.png" width="480" height="80" style="border-radius:10px;"/>
+<img src="./img/waguri.png" width="480" height="80"/>
 <br>
 <br>
   
@@ -46,7 +46,7 @@
 </a>
 <br><br>
 <a href="https://github.com/AixLnyt/Loading_Effect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=Loading-Effect&show_icons=true&bg_color=2d1b00&title_color=ff6b35&text_color=f7f7f7&icon_color=ffd60a&count_private=true&border_color=ff9e00&border_radius=10" width="370"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=Loading-Effect&show_icons=true&bg_color=2d1b00&title_color=ff6b35&text_color=f7f6fb&icon_color=ffd60a&count_private=true&border_color=ff9e00&border_radius=10" width="370"/>
 </a>
 <br><br>
 <a href="https://github.com/AixLnyt/pixiv">
@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AixLnyt&repo=KLSH-Announcement-GUI&show_icons=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=00d9ff&count_private=true&border_color=00b4d8&border_radius=10&description=查看國立基隆高級中學（KLSH）置頂和重要公告資訊" width="370"/>
 </a>
 
-<img src="./img/divigif.gif" width="850" style="border-radius:10px;"/>
+<img src="./img/divigif.gif" width="850"/>
 
 <br>
 <br>
@@ -65,10 +65,10 @@
 <table align="center">
   <tr>
     <td width="500">
-      <img src="./img/waguri4.gif" width="500" height="250" style="border-radius:10px;" />
+      <img src="./img/waguri4.gif" width="500" height="250"/>
     </td>
     <td width="270">
-      <img src="./img/waguri5.png" width="270" style="border-radius:10px;"/>
+      <img src="./img/waguri5.png" width="270"/>
     </td>
   </tr>
 </table>
@@ -79,19 +79,14 @@
 <br>
 
 <p align="center">
-  <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px" style="border-radius:50%;" />
-  <img src="./img/icon/imgi_38_宇佐美翔平_icon.png" alt="宇佐美翔平" width="80px" style="border-radius:50%;" />
-  <img src="./img/icon/imgi_39_夏泽朔_icon.png" alt="夏泽朔" width="80px" style="border-radius:50%;" />
-  <img src="./img/icon/imgi_40_依田绚斗_icon.png" alt="依田绚斗" width="80px" style="border-radius:50%;" />
-  <img src="./img/icon/imgi_41_和栗薰子_icon.png" alt="和栗薰子" width="80px" style="border-radius:50%;" />
-  <img src="./img/icon/imgi_42_保科昴_icon.png" alt="保科昴" width="80px" style="border-radius:50%;" />
+  <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px"/>
+  <img src="./img/icon/imgi_38_宇佐美翔平_icon.png" alt="宇佐美翔平" width="80px"/>
+  <img src="./img/icon/imgi_39_夏泽朔_icon.png" alt="夏泽朔" width="80px"/>
+  <img src="./img/icon/imgi_40_依田绚斗_icon.png" alt="依田绚斗" width="80px"/>
+  <img src="./img/icon/imgi_41_和栗薰子_icon.png" alt="和栗薰子" width="80px"/>
+  <img src="./img/icon/imgi_42_保科昴_icon.png" alt="保科昴" width="80px"/>
 </p>
 
-<br>
-
-<!-- <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-</p> -->
 <br>
 <img src="./img/waguri6.png" width="100%" align="center"/>
 
