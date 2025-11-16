@@ -1,10 +1,10 @@
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:f093fb,100:ff6b9d&height=220&section=header&text=%E2%9C%A8Waguri%20Kaoruko%E2%9C%A8&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Student%20%7C%20Providence%20University%20%7C%20Vibe%20Coding&descSize=16&descAlignY=58&descColor=ffffff&stroke=000000&strokeWidth=1" width="100%"/>
 
-<!-- 右圖 - 移除 style -->
+<!-- 右圖  -->
 <img src="./img/waguri2.png" align="right" width="280"/>
 <br>
-<!-- 左圖 - 移除 style -->
+<!-- 左圖  -->
 <img src="./img/waguri.png" width="470" height="150"/>
 <br>
 <br>
