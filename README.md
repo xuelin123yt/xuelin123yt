@@ -84,32 +84,32 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./img/icon/imgi_37_䌷凛太郎_icon.png" alt="䌷凛太郎" width="80px"/>
+      <img src="./img/icon/1.png" alt="䌷凛太郎" width="80px"/>
       <br>
       <sub><b>䌷凛太郎</b></sub>
     </td>
     <td align="center">
-      <img src="./img/icon/imgi_38_宇佐美翔平_icon.png" alt="宇佐美翔平" width="80px"/>
+      <img src="./img/icon/2.png" alt="宇佐美翔平" width="80px"/>
       <br>
       <sub><b>宇佐美翔平</b></sub>
     </td>
     <td align="center">
-      <img src="./img/icon/imgi_39_夏泽朔_icon.png" alt="夏泽朔" width="80px"/>
+      <img src="./img/icon/3.png" alt="夏澤朔" width="80px"/>
       <br>
       <sub><b>夏泽朔</b></sub>
     </td>
     <td align="center">
-      <img src="./img/icon/imgi_40_依田绚斗_icon.png" alt="依田绚斗" width="80px"/>
+      <img src="./img/icon/4.png" alt="依田綏鬥" width="80px"/>
       <br>
       <sub><b>依田绚斗</b></sub>
     </td>
     <td align="center">
-      <img src="./img/icon/imgi_41_和栗薰子_icon.png" alt="和栗薰子" width="80px"/>
+      <img src="./img/icon/5.png" alt="和栗薰子" width="80px"/>
       <br>
       <sub><b>和栗薰子</b></sub>
     </td>
     <td align="center">
-      <img src="./img/icon/imgi_42_保科昴_icon.png" alt="保科昴" width="80px"/>
+      <img src="./img/icon/6.png" alt="保科昴" width="80px"/>
       <br>
       <sub><b>保科昴</b></sub>
     </td>
