@@ -5,7 +5,7 @@
 <img src="./img/waguri2.png" align="right" width="280"/>
 <br>
 <!-- 左圖 - 移除 style -->
-<img src="./img/waguri.png" width="480" height="80"/>
+<img src="./img/waguri.png" width="470" height="150"/>
 <br>
 <br>
 
@@ -34,10 +34,7 @@
 - 個人狀態：**與凜太郎熱戀中**
 
 <img src="./img/divigif.gif" width="480"/>
-<img src="./img/waguri3.png" width="250" align="right"/>
-<br>
-<br>
-<img src="./img/waguri.png" width="480" height="80"/>
+<img src="./img/waguri3.png" width="220" align="right"/>
 <br>
 <br>
   
